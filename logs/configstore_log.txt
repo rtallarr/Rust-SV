@@ -1,0 +1,19 @@
+
+
+[2023-12-22 17:08:30] Failed to read store 'install' from 'C:\Users\rtall\OneDrive\Escritorio\RustSV\config\config.vdf.tmp'
+[2023-12-22 17:08:30] Flushed store 'install' to 'C:\Users\rtall\OneDrive\Escritorio\RustSV\config\config.vdf'
+[2023-12-22 17:08:32] Flushed store 'install' to 'C:\Users\rtall\OneDrive\Escritorio\RustSV\config\config.vdf'
+
+
+[2023-12-22 17:46:54] Loaded store 'install' from 'C:\Users\rtall\OneDrive\Escritorio\RustSV\config\config.vdf' successfully
+
+
+[2023-12-22 18:10:37] Loaded store 'install' from 'C:\Users\rtall\OneDrive\Escritorio\RustSV\config\config.vdf' successfully
+
+
+[2023-12-22 18:15:48] Loaded store 'install' from 'C:\Users\rtall\OneDrive\Escritorio\RustSV\config\config.vdf' successfully
+[2023-12-22 18:15:49] Flushed store 'install' to 'C:\Users\rtall\OneDrive\Escritorio\RustSV\config\config.vdf'
+
+
+[2023-12-22 19:00:35] Loaded store 'install' from 'C:\Users\rtall\OneDrive\Escritorio\RustSV\config\config.vdf' successfully
+[2023-12-22 19:00:37] Flushed store 'install' to 'C:\Users\rtall\OneDrive\Escritorio\RustSV\config\config.vdf'

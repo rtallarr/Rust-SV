@@ -1,0 +1,2 @@
+Oxide.Compiler.exe filter=lfs diff=lfs merge=lfs -text
+RustDedicated_Data/StreamingAssets/ocean_settings.physicsdata.dat filter=lfs diff=lfs merge=lfs -text

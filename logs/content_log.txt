@@ -1,0 +1,30 @@
+
+
+[2023-12-22 17:08:30] Load failed: C:\Users\rtall\OneDrive\Escritorio\RustSV\steamapps\libraryfolders.vdf.
+[2023-12-22 17:08:30] Load failed: C:\Users\rtall\OneDrive\Escritorio\RustSV\config\libraryfolders.vdf.
+[2023-12-22 17:08:30] Steam library folders configuration will be reset.
+[2023-12-22 17:08:30] No install folder configuration files found.
+
+
+[2023-12-22 17:46:54] Load failed: C:\Users\rtall\OneDrive\Escritorio\RustSV\steamapps\libraryfolders.vdf.
+[2023-12-22 17:46:54] Load failed: C:\Users\rtall\OneDrive\Escritorio\RustSV\config\libraryfolders.vdf.
+[2023-12-22 17:46:54] Steam library folders configuration will be reset.
+[2023-12-22 17:46:54] No install folder configuration files found.
+
+
+[2023-12-22 18:10:37] Load failed: C:\Users\rtall\OneDrive\Escritorio\RustSV\steamapps\libraryfolders.vdf.
+[2023-12-22 18:10:37] Load failed: C:\Users\rtall\OneDrive\Escritorio\RustSV\config\libraryfolders.vdf.
+[2023-12-22 18:10:37] Steam library folders configuration will be reset.
+[2023-12-22 18:10:37] No install folder configuration files found.
+
+
+[2023-12-22 18:15:48] Load failed: C:\Users\rtall\OneDrive\Escritorio\RustSV\steamapps\libraryfolders.vdf.
+[2023-12-22 18:15:48] Load failed: C:\Users\rtall\OneDrive\Escritorio\RustSV\config\libraryfolders.vdf.
+[2023-12-22 18:15:48] Steam library folders configuration will be reset.
+[2023-12-22 18:15:48] No install folder configuration files found.
+
+
+[2023-12-22 19:00:35] Load failed: C:\Users\rtall\OneDrive\Escritorio\RustSV\steamapps\libraryfolders.vdf.
+[2023-12-22 19:00:35] Load failed: C:\Users\rtall\OneDrive\Escritorio\RustSV\config\libraryfolders.vdf.
+[2023-12-22 19:00:35] Steam library folders configuration will be reset.
+[2023-12-22 19:00:35] No install folder configuration files found.

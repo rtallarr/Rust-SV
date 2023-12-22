@@ -1,0 +1,25 @@
+
+
+[2023-12-22 17:16:16] [AppID 252490] Schema not found on disk
+[2023-12-22 17:16:17] [AppID 252490] CAPIJobRequestUserStats - updated schema from server
+[2023-12-22 17:21:47] [AppID 252490] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2023-12-22 17:21:50] [AppID 252490] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2023-12-22 17:50:33] [AppID 252490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2023-12-22 17:52:55] [AppID 252490] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2023-12-22 18:02:28] [AppID 252490] Loaded schema from disk.
+[2023-12-22 18:05:16] [AppID 252490] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+
+
+[2023-12-22 18:11:40] [AppID 252490] Loaded schema from disk.
+[2023-12-22 18:11:43] [AppID 252490] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2023-12-22 18:16:29] [AppID 252490] Loaded schema from disk.
+[2023-12-22 18:16:30] [AppID 252490] CAPIJobStoreUserStats::BInit() - no upload needed
+[2023-12-22 18:19:17] [AppID 252490] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+
+
+[2023-12-22 19:06:37] [AppID 252490] Loaded schema from disk.
+[2023-12-22 19:09:02] [AppID 252490] CAPIJobRequestUserStats - no stats data in server response, we must be up to date

@@ -1,0 +1,537 @@
+17:06 [Info] Loading Oxide Core v2.0.4077...
+17:06 [Info] Loading extensions...
+17:06 [Info] Loaded extension CSharp v2.0.4126 by Oxide Team and Contributors
+17:06 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+17:06 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+17:06 [Info] Unity version: 2021.3.29f1
+17:06 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+17:06 [Info] Loaded extension Rust v2.0.6098 by Oxide Team and Contributors
+17:06 [Info] [CSharp] Downloading Oxide.Compiler.exe. . .
+17:06 [Info] [CSharp] Downloaded newer version of Oxide.Compiler.exe | Newer found
+17:06 [Info] Using Covalence provider for game 'Rust'
+17:06 [Info] Loading plugins...
+17:06 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+17:06 [Info] Loaded plugin Rust v2.0.6098 by Oxide Team and Contributors
+17:08 [Info] IP address from external API: 190.153.197.223
+17:08 [Info] [CSharp] Started Oxide.Compiler v1.0.26.0 successfully
+17:08 [Info] DeathNotes was compiled successfully in 1414ms
+17:08 [Warning] [Death Notes] Generating new configuration file...
+17:08 [Info] Loaded plugin Death Notes v6.3.9 by LaserHydra/Mevent
+17:09 [Info] Shutting down compiler because idle shutdown
+17:09 [Info] Compiler shutdown completed
+17:11 [Info] Usage: oxide.reload *|<pluginname>+
+17:11 [Info] Unloaded plugin Death Notes v6.3.9 by LaserHydra/Mevent
+17:11 [Info] Loaded plugin Death Notes v6.3.9 by LaserHydra/Mevent
+17:16 [Info] [Death Notes] rtallar had enough of life.
+17:44 [Info] Loading Oxide Core v2.0.4077...
+17:44 [Info] Loading extensions...
+17:44 [Info] Loaded extension CSharp v2.0.4126 by Oxide Team and Contributors
+17:44 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+17:44 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+17:44 [Info] Unity version: 2021.3.29f1
+17:44 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+17:44 [Info] Loaded extension Rust v2.0.6098 by Oxide Team and Contributors
+17:44 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 9bdc9eae8285854a641536f7473b2b01 | Last modified: 2023-12-22 20:06:23
+17:44 [Info] [CSharp] Oxide.Compiler.exe is up to date
+17:44 [Info] Using Covalence provider for game 'Rust'
+17:44 [Info] Loading plugins...
+17:44 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+17:44 [Info] Loaded plugin Rust v2.0.6098 by Oxide Team and Contributors
+17:44 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+17:44 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+17:44 [Info] [CSharp] Started Oxide.Compiler v1.0.26.0 successfully
+17:44 [Info] DeathNotes, GatherManager, ImageLibrary, Kits, NTeleportation, NoEscape, NoGiveNotices, QuickSmelt, SpawnHeli, StackSizeController and UnburnableMeat were compiled successfully in 0ms
+17:44 [Info] Loaded plugin Death Notes v6.3.9 by LaserHydra/Mevent
+17:44 [Warning] [Gather Manager] New configuration file created.
+17:44 [Warning] [Gather Manager] Configuration file updated.
+17:44 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+17:44 [Info] Loaded plugin Image Library v2.0.62 by Absolut & K1lly0u
+17:44 [Info] Loaded plugin Kits v4.4.0 by k1lly0u
+17:44 [Info] [NTeleportation] Loaded default configuration.
+17:44 [Info] Loaded plugin NTeleportation v1.7.8 by nivex
+17:44 [Info] Loaded plugin No Escape v2.1.35 by Calytic
+17:44 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+17:44 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+17:44 [Info] [Spawn Heli] Configuration changes saved to SpawnHeli.json
+17:44 [Info] Loaded plugin Spawn Heli v3.0.0 by SpooksAU
+17:44 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+17:44 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+17:44 [Info] Loaded plugin Unburnable Meat v1.0.1 by S642667
+17:44 [Info] [Stack Size Controller] Populating Individual Item Stack Sizes in configuration.
+17:45 [Info] Shutting down compiler because idle shutdown
+17:45 [Info] Compiler shutdown completed
+17:46 [Info] IP address from external API: 190.153.197.223
+17:46 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 129ms
+17:46 [Warning] [Image Library] Waiting for Steamworks to update item definitions....
+17:46 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.8' took 144ms
+17:46 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 133ms
+17:46 [Info] [Image Library] Starting order Kits
+17:47 [Warning] [Image Library] Retrieving item skin lists...
+17:47 [Warning] [Image Library] Processing approved skins; Page 1/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 2/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 3/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 4/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 5/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 6/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 7/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 8/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 9/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 10/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 11/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 12/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 13/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 14/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 15/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 16/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 17/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 18/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 19/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 20/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 21/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 22/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 23/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 24/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 25/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 26/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 27/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 28/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 29/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 30/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 31/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 32/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 33/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 34/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 35/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 36/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 37/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 38/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 39/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 40/41
+17:47 [Warning] [Image Library] Processing approved skins; Page 41/41
+17:47 [Info] [Image Library] Approved skins loaded
+17:50 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+17:51 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+17:51 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+17:51 [Info] Group 'default' granted permission 'quicksmelt.use'
+17:51 [Info] Permission 'kits.add' doesn't exist
+17:53 [Info] Unloaded plugin Unburnable Meat v1.0.1 by S642667
+17:53 [Info] Loaded plugin Unburnable Meat v1.0.1 by S642667
+17:53 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+17:53 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+17:53 [Info] [CSharp] Started Oxide.Compiler v1.0.26.0 successfully
+17:53 [Info] DeathNotes, GatherManager, ImageLibrary, Kits, NTeleportation, NoEscape, NoGiveNotices, QuickSmelt, SpawnHeli and StackSizeController were compiled successfully in 2251ms
+17:53 [Info] Unloaded plugin Death Notes v6.3.9 by LaserHydra/Mevent
+17:53 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 1257ms
+17:53 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+17:53 [Info] Unloaded plugin Image Library v2.0.62 by Absolut & K1lly0u
+17:53 [Info] Unloaded plugin Kits v4.4.0 by k1lly0u
+17:53 [Info] Unloaded plugin NTeleportation v1.7.8 by nivex
+17:53 [Warning] Calling 'Unload' on 'NoEscape v2.1.35' took 280ms
+17:53 [Info] Unloaded plugin No Escape v2.1.35 by Calytic
+17:53 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+17:53 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.5' took 133ms
+17:53 [Info] Unloaded plugin Quick Smelt v5.1.5 by misticos
+17:53 [Info] Unloaded plugin Spawn Heli v3.0.0 by SpooksAU
+17:53 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+17:53 [Info] Unloaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+17:53 [Info] Loaded plugin Death Notes v6.3.9 by LaserHydra/Mevent
+17:53 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 130ms
+17:53 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+17:53 [Info] Loaded plugin Image Library v2.0.62 by Absolut & K1lly0u
+17:53 [Info] Loaded plugin Kits v4.4.0 by k1lly0u
+17:53 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.8' took 157ms
+17:53 [Info] Loaded plugin NTeleportation v1.7.8 by nivex
+17:53 [Info] Loaded plugin No Escape v2.1.35 by Calytic
+17:53 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+17:53 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 128ms
+17:53 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+17:53 [Info] Loaded plugin Spawn Heli v3.0.0 by SpooksAU
+17:53 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+17:53 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+17:53 [Info] [Image Library] Starting order Kits
+17:53 [Info] [Stack Size Controller] Adding new item attackhelicopter to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item rhib to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item rowboat to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item tugboat to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item snowmobile to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item snowmobiletomaha to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item locomotive to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item wagon to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item ammo.rocket.seeker to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item legacy.shelter.wood to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item draculacape to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item draculamask to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item metal.facemask.hockey to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item metal.facemask.icemask to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item hazmatsuit.arcticsuit to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item hazmatsuit.diver to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item hazmatsuit.lumberjack to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item hazmatsuit_scientist_arctic to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item hazmatsuit_scientist_nvgm to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item hazmatsuittwitch to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item metal.plate.torso.icevest to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item chair.icethrone to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item clantable to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item weaponrack.light to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item weaponrack.doublelight to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item hab.armor to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item legacyfurnace to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item electric.furnace to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item storageadaptor to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item industrial.combiner to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item industrial.conveyor to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item industrial.crafter to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item industrial.splitter to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item ptz.cctv.camera to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item gunrack.horizontal to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item gunrack.single.1.horizontal to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item gunrack.single.2.horizontal to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item gunrack.single.3.horizontal to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item gunrack_stand to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item gunrack_tall.horizontal to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item gunrack_wide.horizontal to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item chocolate to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item hat.rabbitmask to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item skylantern to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.green to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.orange to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.purple to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.red to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item hat.tigermask to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item confetticannon to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item door.double.hinged.bardoors to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item bathtub.planter to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item head.bag to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item fishtrophy to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item huntingtrophylarge to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item huntingtrophysmall to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item minecart.planter to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item rail.road.planter to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item rockingchair to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item rockingchair.rockingchair2 to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item rockingchair.rockingchair3 to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item knife.skinning to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item storage_barrel_a to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item storage_barrel_b to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item storage_barrel_c to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item torchholder to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item wantedposter.wantedposter2 to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item wantedposter.wantedposter3 to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item wantedposter.wantedposter4 to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item wantedposter to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item bluedogtags to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item dogtagneutral to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item reddogtags to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item attire.egg.suit to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item rustige_egg_f to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item blueidtag to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item grayidtag to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item greenidtag to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item lavenderidtag to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item mintidtag to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item orangeidtag to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item pinkidtag to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item purpleidtag to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item redidtag to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item whiteidtag to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item yellowidtag to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item frontiermirror.large to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item frontiermirror.medium to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item frontiermirror.small to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item frontiermirror.standing to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item goldframe.large to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item goldframe.medium to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item goldframe.small to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item goldframe.standing to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item goldmirror.large to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item goldmirror.medium to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item goldmirror.small to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item goldmirror.standing to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item lightup.large to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item lightupframe.medium to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item lightupframe.small to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item lightupframe.standing to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item lightupmirror.large to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item lightupmirror.medium to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item lightupmirror.small to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item lightupmirror.standing to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item scrapframe.large to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item scrapframe.medium to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item scrapframe.small to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item scrapframe.standing to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item scrapmirror.large to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item scrapmirror.medium to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item scrapmirror.small to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item scrapmirror.standing to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item twowaymirror.window to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item woodframe.large to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item woodframe.medium to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item woodframe.small to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item woodframe.standing to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item woodmirror.large to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item woodmirror.medium to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item woodmirror.small to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item woodmirror.standing to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item parachute.deployed to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item parachute to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item pinata to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item trophy to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item trophy2023 to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item twitchrivals2023desk to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item gingerbreadsuit to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item supertea to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item concretehatchet to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item concretepickaxe to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item lumberjack.hatchet to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item lumberjack.pickaxe to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item pipetool to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item spraycan to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item spraycandecal to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item weapon.mod.burstmodule to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item weapon.mod.extendedmags to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item rifle.ak.diver to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item rifle.ak.ice to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item diverhatchet to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item diverpickaxe to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item divertorch to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item grenade.flashbang to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item pistol.prototype17 to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item mace.baseballbat to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item torch.torch.skull to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item vampire.stake to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item hmlmg to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item homingmissile.launcher to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item legacy bow to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item shotgun.m4 to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item grenade.molotov to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item horse.saddle.double to IndividualItemStackSize in configuration.
+17:53 [Info] [Stack Size Controller] Adding new item horse.saddle.single to IndividualItemStackSize in configuration.
+17:54 [Info] Shutting down compiler because idle shutdown
+17:54 [Info] Compiler shutdown completed
+17:59 [Info] [CSharp] Started Oxide.Compiler v1.0.26.0 successfully
+17:59 [Info] BetterLoot was compiled successfully in 1524ms
+17:59 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+17:59 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+17:59 [Info] [BetterLoot] No Blacklist found, creating new file...
+17:59 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+17:59 [Info] [BetterLoot] Exported 903 items to 'NamesList'
+17:59 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+17:59 [Info] [BetterLoot] Updating internals ...
+17:59 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+17:59 [Info] [BetterLoot] Removed 6 stacked LootContainer
+17:59 [Info] [BetterLoot] Populated '786' supported containers.
+18:00 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 174ms
+18:00 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+18:00 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+18:00 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+18:00 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+18:00 [Info] [BetterLoot] Updating internals ...
+18:00 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+18:00 [Info] [BetterLoot] No stacked LootContainer found.
+18:00 [Info] [BetterLoot] Populated '792' supported containers.
+18:00 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 167ms
+18:00 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+18:00 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+18:00 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+18:00 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+18:00 [Info] [BetterLoot] Updating internals ...
+18:00 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+18:00 [Info] [BetterLoot] No stacked LootContainer found.
+18:00 [Info] [BetterLoot] Populated '792' supported containers.
+18:00 [Info] Shutting down compiler because idle shutdown
+18:01 [Info] Compiler shutdown completed
+18:02 [Info] [Death Notes] rtallar had enough of life.
+18:05 [Info] [Death Notes] rtallar had enough of life.
+18:06 [Info] Loading Oxide Core v2.0.4077...
+18:06 [Info] Loading extensions...
+18:06 [Info] Loaded extension CSharp v2.0.4126 by Oxide Team and Contributors
+18:06 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+18:06 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:06 [Info] Unity version: 2021.3.29f1
+18:06 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:06 [Info] Loaded extension Rust v2.0.6098 by Oxide Team and Contributors
+18:06 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 9bdc9eae8285854a641536f7473b2b01 | Last modified: 2023-12-22 20:06:23
+18:06 [Info] [CSharp] Oxide.Compiler.exe is up to date
+18:06 [Info] Using Covalence provider for game 'Rust'
+18:06 [Info] Loading plugins...
+18:06 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:06 [Info] Loaded plugin Rust v2.0.6098 by Oxide Team and Contributors
+18:06 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+18:06 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+18:06 [Info] [CSharp] Started Oxide.Compiler v1.0.26.0 successfully
+18:06 [Info] BetterLoot, DeathNotes, GatherManager, ImageLibrary, Kits, NTeleportation, NoEscape, NoGiveNotices, QuickSmelt, SpawnHeli, StackSizeController and UnburnableMeat were compiled successfully in 0ms
+18:06 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+18:06 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+18:06 [Info] Loaded plugin Death Notes v6.3.9 by LaserHydra/Mevent
+18:06 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+18:06 [Info] Loaded plugin Image Library v2.0.62 by Absolut & K1lly0u
+18:06 [Info] Loaded plugin Kits v4.4.0 by k1lly0u
+18:06 [Info] Loaded plugin NTeleportation v1.7.8 by nivex
+18:06 [Info] Loaded plugin No Escape v2.1.35 by Calytic
+18:06 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+18:06 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+18:06 [Info] Loaded plugin Spawn Heli v3.0.0 by SpooksAU
+18:06 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+18:06 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+18:06 [Info] Loaded plugin Unburnable Meat v1.0.1 by S642667
+18:07 [Info] Shutting down compiler because idle shutdown
+18:07 [Info] Compiler shutdown completed
+18:10 [Info] IP address from external API: 190.153.197.223
+18:10 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+18:10 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+18:10 [Info] [BetterLoot] Updating internals ...
+18:10 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 166ms
+18:10 [Warning] [Image Library] The CommunityEntity instance ID has changed! Due to the way CUI works in Rust all previously stored images must be removed and re-stored using the new ID as reference so clients can find the images. These images will be added to a new load order. Interupting this process will result in being required to re-download these images from the web
+18:10 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.8' took 194ms
+18:10 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 164ms
+18:10 [Info] [BetterLoot] Removed 7 stacked LootContainer
+18:10 [Info] [BetterLoot] Populated '580' supported containers.
+18:10 [Info] [Image Library] Starting order Kits
+18:11 [Info] Player 'rtallar(76561199081630402)' added to group: admin
+18:13 [Info] Loading Oxide Core v2.0.4077...
+18:13 [Info] Loading extensions...
+18:13 [Info] Loaded extension CSharp v2.0.4126 by Oxide Team and Contributors
+18:13 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+18:13 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:13 [Info] Unity version: 2021.3.29f1
+18:13 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:13 [Info] Loaded extension Rust v2.0.6098 by Oxide Team and Contributors
+18:13 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 9bdc9eae8285854a641536f7473b2b01 | Last modified: 2023-12-22 20:06:23
+18:13 [Info] [CSharp] Oxide.Compiler.exe is up to date
+18:13 [Info] Using Covalence provider for game 'Rust'
+18:13 [Info] Loading plugins...
+18:13 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:13 [Info] Loaded plugin Rust v2.0.6098 by Oxide Team and Contributors
+18:13 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+18:13 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+18:13 [Info] [CSharp] Started Oxide.Compiler v1.0.26.0 successfully
+18:13 [Info] BetterLoot, DeathNotes, GatherManager, ImageLibrary, Kits, NTeleportation, NoEscape, NoGiveNotices, QuickSmelt, SpawnHeli, StackSizeController and UnburnableMeat were compiled successfully in 0ms
+18:13 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+18:13 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+18:13 [Info] Loaded plugin Death Notes v6.3.9 by LaserHydra/Mevent
+18:13 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+18:13 [Info] Loaded plugin Image Library v2.0.62 by Absolut & K1lly0u
+18:13 [Info] Loaded plugin Kits v4.4.0 by k1lly0u
+18:13 [Info] Loaded plugin NTeleportation v1.7.8 by nivex
+18:13 [Info] Loaded plugin No Escape v2.1.35 by Calytic
+18:13 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+18:13 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+18:13 [Info] Loaded plugin Spawn Heli v3.0.0 by SpooksAU
+18:13 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+18:13 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+18:13 [Info] Loaded plugin Unburnable Meat v1.0.1 by S642667
+18:14 [Info] Shutting down compiler because idle shutdown
+18:14 [Info] Compiler shutdown completed
+18:15 [Info] IP address from external API: 190.153.197.223
+18:15 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+18:15 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+18:15 [Info] [BetterLoot] Updating internals ...
+18:15 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 174ms
+18:15 [Warning] [Image Library] The CommunityEntity instance ID has changed! Due to the way CUI works in Rust all previously stored images must be removed and re-stored using the new ID as reference so clients can find the images. These images will be added to a new load order. Interupting this process will result in being required to re-download these images from the web
+18:15 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.8' took 207ms
+18:15 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 168ms
+18:15 [Info] [BetterLoot] Removed 7 stacked LootContainer
+18:15 [Info] [BetterLoot] Populated '582' supported containers.
+18:15 [Info] [Image Library] Starting order Kits
+18:16 [Info] [Death Notes] rtallar had enough of life.
+18:19 [Info] [Death Notes] rtallar had enough of life.
+18:20 [Info] [Death Notes] As rtallar just found out, breathing underwater is rather difficult.
+18:21 [Info] Player 'rtallar(76561199081630402)' added to group: admin
+18:21 [Info] [CSharp] Started Oxide.Compiler v1.0.26.0 successfully
+18:21 [Info] Kits was compiled successfully in 1804ms
+18:21 [Info] Unloaded plugin Kits v4.4.0 by k1lly0u
+18:21 [Info] Loaded plugin Kits v4.4.0 by k1lly0u
+18:21 [Info] [Image Library] Starting order Kits
+18:22 [Info] Shutting down compiler because idle shutdown
+18:22 [Info] Compiler shutdown completed
+18:23 [Info] [Death Notes] rtallar fell to their death.
+18:25 [Info] Permission 'kits.add' doesn't exist
+18:25 [Info] [Death Notes] rtallar couldn't run away from the Wolf.
+18:25 [Info] Permission 'kits.add' doesn't exist
+18:26 [Info] Group 'admin' granted permission 'kits.admin'
+18:30 [Info] [Death Notes] rtallar had enough of life.
+18:35 [Info] [Death Notes] rtallar couldn't run away from the Boar.
+18:35 [Info] [Death Notes] rtallar had enough of life.
+18:35 [Info] [Death Notes] rtallar shot a Boar using their Hunting Bow over a distance of 12 meters.
+18:36 [Info] [Death Notes] rtallar shot a Boar using their M39 Rifle over a distance of 35.1 meters.
+18:37 [Info] [Death Notes] rtallar became just a touch too radioactive.
+18:40 [Info] [Death Notes] rtallar couldn't run away from the Boar.
+18:41 [Info] [Death Notes] rtallar shot a Boar using their Hunting Bow over a distance of 28.9 meters.
+18:41 [Info] [Death Notes] rtallar shot a Boar using their Hunting Bow over a distance of 7.6 meters.
+18:48 [Info] [Death Notes] rtallar couldn't run away from the Wolf.
+18:51 [Info] [CSharp] Started Oxide.Compiler v1.0.26.0 successfully
+18:51 [Info] RandomRespawner was compiled successfully in 1555ms
+18:51 [Warning] [Random Respawner] Creating a new configuration file
+18:51 [Info] Loaded plugin Random Respawner v1.2.5 by Egor Blagov/Arainrr/Tryhard
+18:51 [Warning] [Random Respawner] Successfully found 434 spawn positions.
+18:51 [Info] [Death Notes] rtallar had enough of life.
+18:52 [Info] Unloaded plugin Random Respawner v1.2.5 by Egor Blagov/Arainrr/Tryhard
+18:52 [Info] Loaded plugin Random Respawner v1.2.5 by Egor Blagov/Arainrr/Tryhard
+18:52 [Warning] [Random Respawner] Successfully found 396 spawn positions.
+18:52 [Info] Shutting down compiler because idle shutdown
+18:52 [Info] Compiler shutdown completed
+18:53 [Info] [Death Notes] rtallar had enough of life.
+18:53 [Info] [Death Notes] rtallar turned into an ice statue.
+18:58 [Info] Loading Oxide Core v2.0.4077...
+18:58 [Info] Loading extensions...
+18:58 [Info] Loaded extension CSharp v2.0.4126 by Oxide Team and Contributors
+18:58 [Info] Loaded extension MySql v2.0.3774 by Oxide Team and Contributors
+18:58 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:58 [Info] Unity version: 2021.3.29f1
+18:58 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:58 [Info] Loaded extension Rust v2.0.6098 by Oxide Team and Contributors
+18:58 [Info] [CSharp] Checking for updates for Oxide.Compiler.exe | Local MD5: 9bdc9eae8285854a641536f7473b2b01 | Last modified: 2023-12-22 20:06:23
+18:58 [Info] [CSharp] Oxide.Compiler.exe is up to date
+18:58 [Info] Using Covalence provider for game 'Rust'
+18:58 [Info] Loading plugins...
+18:58 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:58 [Info] Loaded plugin Rust v2.0.6098 by Oxide Team and Contributors
+18:58 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+18:58 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+18:58 [Info] [CSharp] Started Oxide.Compiler v1.0.26.0 successfully
+18:58 [Info] BetterLoot, DeathNotes, GatherManager, ImageLibrary, Kits, NTeleportation, NoEscape, NoGiveNotices, QuickSmelt, RandomRespawner, SpawnHeli, StackSizeController and UnburnableMeat were compiled successfully in 0ms
+18:58 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+18:58 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+18:58 [Info] Loaded plugin Death Notes v6.3.9 by LaserHydra/Mevent
+18:58 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+18:58 [Info] Loaded plugin Image Library v2.0.62 by Absolut & K1lly0u
+18:58 [Info] Loaded plugin Kits v4.4.0 by k1lly0u
+18:58 [Info] Loaded plugin NTeleportation v1.7.8 by nivex
+18:58 [Info] Loaded plugin No Escape v2.1.35 by Calytic
+18:58 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+18:58 [Info] Loaded plugin Quick Smelt v5.1.5 by misticos
+18:58 [Info] Loaded plugin Random Respawner v1.2.5 by Egor Blagov/Arainrr/Tryhard
+18:58 [Info] Loaded plugin Spawn Heli v3.0.0 by SpooksAU
+18:58 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+18:58 [Info] Loaded plugin Stack Size Controller v4.1.2 by AnExiledDev/patched by chrome
+18:58 [Info] Loaded plugin Unburnable Meat v1.0.1 by S642667
+18:59 [Info] Shutting down compiler because idle shutdown
+18:59 [Info] Compiler shutdown completed
+19:00 [Info] IP address from external API: 190.153.197.223
+19:00 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+19:00 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+19:00 [Info] [BetterLoot] Updating internals ...
+19:00 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 144ms
+19:00 [Warning] [Image Library] The CommunityEntity instance ID has changed! Due to the way CUI works in Rust all previously stored images must be removed and re-stored using the new ID as reference so clients can find the images. These images will be added to a new load order. Interupting this process will result in being required to re-download these images from the web
+19:00 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.8' took 148ms
+19:00 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.5' took 137ms
+19:00 [Info] [BetterLoot] Removed 5 stacked LootContainer
+19:00 [Info] [BetterLoot] Populated '402' supported containers.
+19:00 [Info] [Image Library] Starting order Kits
+19:00 [Warning] [Random Respawner] Successfully found 536 spawn positions.
+19:06 [Info] [Death Notes] rtallar had enough of life.
+19:13 [Info] [Death Notes] rtallar couldn't run away from the Boar.
+19:18 [Info] [Death Notes] rtallar had enough of life.
+19:22 [Info] [Death Notes] rtallar had enough of life.
+19:23 [Info] Group 'default' granted permission 'randomrespawner.use'
+19:23 [Info] [CSharp] Started Oxide.Compiler v1.0.26.0 successfully
+19:23 [Info] RandomRespawner was compiled successfully in 1543ms
+19:23 [Info] Unloaded plugin Random Respawner v1.2.5 by Egor Blagov/Arainrr/Tryhard
+19:23 [Info] Loaded plugin Random Respawner v1.2.5 by Egor Blagov/Arainrr/Tryhard
+19:23 [Warning] [Random Respawner] Successfully found 539 spawn positions.
+19:23 [Info] [Death Notes] rtallar had enough of life.
+19:24 [Info] [Death Notes] rtallar had enough of life.
+19:24 [Info] [Death Notes] rtallar had enough of life.
+19:24 [Info] Shutting down compiler because idle shutdown
+19:24 [Info] Compiler shutdown completed
+19:25 [Info] [Death Notes] rtallar couldn't run away from the Wolf.

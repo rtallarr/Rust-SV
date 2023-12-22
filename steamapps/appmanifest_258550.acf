@@ -1,0 +1,42 @@
+"AppState"
+{
+	"appid"		"258550"
+	"Universe"		"1"
+	"LauncherPath"		"C:\\Users\\rtall\\OneDrive\\Escritorio\\steamcmd\\steamcmd.exe"
+	"name"		"Rust Dedicated Server"
+	"StateFlags"		"4"
+	"installdir"		"rust_dedicated"
+	"LastUpdated"		"1703274452"
+	"SizeOnDisk"		"6223028935"
+	"StagingSize"		"0"
+	"buildid"		"12980910"
+	"LastOwner"		"76561198189299856"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"1930722928"
+	"BytesDownloaded"		"1930722928"
+	"BytesToStage"		"6223028935"
+	"BytesStaged"		"6223028935"
+	"TargetBuildID"		"12980910"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"258551"
+		{
+			"manifest"		"334480363048756582"
+			"size"		"663950445"
+		}
+		"258554"
+		{
+			"manifest"		"1463113670911694628"
+			"size"		"5559078490"
+		}
+	}
+	"UserConfig"
+	{
+	}
+	"MountedConfig"
+	{
+	}
+}

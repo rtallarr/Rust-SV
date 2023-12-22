@@ -1,0 +1,17 @@
+{
+  "_players": {
+    "76561199081630402": {
+      "_usageData": {
+        "Spawn": {
+          "TotalUses": 1,
+          "NextUseTime": 1703280930.3306642
+        },
+        "Prim": {
+          "TotalUses": 2,
+          "NextUseTime": 1703281375.3537703
+        }
+      },
+      "ClaimAutoKits": true
+    }
+  }
+}

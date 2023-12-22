@@ -1,0 +1,15 @@
+
+
+[2023-12-22 17:08:30] [App 252490] - Failed to call Inventory.GetItemDefMeta#1: No Connection (error message: )
+
+
+[2023-12-22 17:46:54] [App 252490] - Failed to call Inventory.GetItemDefMeta#1: No Connection (error message: )
+
+
+[2023-12-22 18:10:37] [App 252490] - Failed to call Inventory.GetItemDefMeta#1: No Connection (error message: )
+
+
+[2023-12-22 18:15:48] [App 252490] - Failed to call Inventory.GetItemDefMeta#1: No Connection (error message: )
+
+
+[2023-12-22 19:00:35] [App 252490] - Failed to call Inventory.GetItemDefMeta#1: No Connection (error message: )
